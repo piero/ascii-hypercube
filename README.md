@@ -1,5 +1,7 @@
 # ascii-hypercube
 
+![ASCII hypercube demo](demo.gif)
+
 A terminal screensaver: a 4D hypercube (tesseract) rotating through several 4D planes,
 projected to ASCII with depth-shaded edges. Pure Python 3, no dependencies.
 
